@@ -5,7 +5,7 @@
 - 📫 How to reach me email: jaggys44@gmail.com | LinkedIn: www.linkedin.com/in/j-singh19
 - Description: A highly motivated and result-oriented professional with flexibility enveloping all work environments. Thrive in teamwork and leadership roles, always up for challenges. Quick Learner and adaptable to a variety of projects.
 
-Skills: Java, Swift Code*, SolidWorks, MATLAB, Eclipse, XCode, Git, GitHub, Agile Methodology, HTML*, SQL*, Python*, MS Word, Technical Writing, MS Excel, MS SharePoint, MS PowerPoint, Adobe Photoshop.
+Skills: Java, Ruby, Ruby on Rails, HTML, SQL, Python*, Swift Code*, Eclipse, XCode, SolidWorks, MATLAB, Git, GitHub, Agile Methodology, MS Word, Technical Writing, MS Excel, MS SharePoint, MS PowerPoint, Adobe Photoshop.
 *Self-taught through online courses currently 
 
 <!---
